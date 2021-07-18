@@ -26,3 +26,15 @@
 **Thoughts:** Started with great enthusiasm and working on leap year solution
 
 **Link to work:** [BMI 2.0 Calculator]( https://replit.com/@theyashviradia/BMI-20-Calculator?embed=1&output=1#main.py)
+
+
+### Day 4: July 18, 2021
+
+**Today's Progress:** Multiple if statements in succession
+
+**Thoughts:** Woke up late again! around 7:41 am and then completed my 4th day of coding challenge. I will have to plan my schedule in advance.
+
+**Link to work:**
+
+[Rollercoaster](https://replit.com/@theyashviradia/Rollercoaster?embed=1&output=1#main.py)
+[Python Pizza Deliveries](https://replit.com/@theyashviradia/Python-Pizza-Deliveries?embed=1&output=1#main.py)
