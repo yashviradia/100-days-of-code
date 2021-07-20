@@ -52,3 +52,14 @@
 [Treasure Island](https://replit.com/@theyashviradia/Treasure-Island?embed=1&output=1#main.py)
 
 [Love Calculator](https://replit.com/@theyashviradia/Love-Calculator?embed=1&output=1#main.py)
+
+
+### Day 6: July 20, 2021
+
+**Today's Progress:** Randomisation and Python Lists
+
+**Thoughts:** Missed the morning time as I woke up late. I need to go to bed early...
+
+**Link to work:**
+
+[Banker Roulette](https://replit.com/@theyashviradia/Banker-Roulette-Who-will-pay-the-bill?embed=1&output=1#main.py)
