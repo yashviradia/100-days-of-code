@@ -39,3 +39,16 @@
 [Rollercoaster](https://replit.com/@theyashviradia/Rollercoaster?embed=1&output=1#main.py)
 
 [Python Pizza Deliveries](https://replit.com/@theyashviradia/Python-Pizza-Deliveries?embed=1&output=1#main.py)
+
+
+### Day 5: July 19, 2021
+
+**Today's Progress:** More Projects to grasp control flow and logical operators
+
+**Thoughts:** Started the challenge around 5:48 am and completed it before my day at university started! So I'm feeling excited and happy!
+
+**Link to work:**
+
+[Treasure Island](https://replit.com/@theyashviradia/Treasure-Island?embed=1&output=1#main.py)
+
+[Love Calculator](https://replit.com/@theyashviradia/Love-Calculator?embed=1&output=1#main.py)
