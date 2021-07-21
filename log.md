@@ -63,3 +63,12 @@
 **Link to work:**
 
 [Banker Roulette](https://replit.com/@theyashviradia/Banker-Roulette-Who-will-pay-the-bill?embed=1&output=1#main.py)
+
+
+### Day 7: July 21, 2021
+
+**Today's Progress:** Randomisation, Python Lists and Python Loops
+
+**Thoughts:** Today also felt fustrated as I woke up late... But completed the challenge.
+
+**Link to work:** [Rock Paper Scissors](https://replit.com/@theyashviradia/Rock-Paper-Scissors?embed=1&output=1#main.py)
