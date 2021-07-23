@@ -72,3 +72,12 @@
 **Thoughts:** Today also felt fustrated as I woke up late... But completed the challenge.
 
 **Link to work:** [Rock Paper Scissors](https://replit.com/@theyashviradia/Rock-Paper-Scissors?embed=1&output=1#main.py)
+
+
+### Day 8: July 22, 2021
+
+**Today's Progress:** Python Loops
+
+**Thoughts:** Need to make time for this challenge and also priority in my life above all the things.
+
+**Link to work:** [High Score](https://replit.com/@theyashviradia/High-Score?embed=1&output=1#main.py)
