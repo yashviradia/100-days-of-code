@@ -81,3 +81,12 @@
 **Thoughts:** Need to make time for this challenge and also priority in my life above all the things.
 
 **Link to work:** [High Score](https://replit.com/@theyashviradia/High-Score?embed=1&output=1#main.py)
+
+
+### Day 9: July 23, 2021
+
+**Today's Progress:** Python loops and range function
+
+**Thoughts:** Woke up a bit late, but started day with good hope, but still need to improve
+
+**Link to work:** [FizzBuzz](https://replit.com/@theyashviradia/FizzBuzz?embed=1&output=1#main.py)
