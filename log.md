@@ -90,3 +90,13 @@
 **Thoughts:** Woke up a bit late, but started day with good hope, but still need to improve
 
 **Link to work:** [FizzBuzz](https://replit.com/@theyashviradia/FizzBuzz?embed=1&output=1#main.py)
+
+
+### Day 10: July 24, 2021
+
+**Today's Progress:** Python loops and range function with Password Generator Project
+
+**Thoughts:** Started with good motivation and got stuck, but at last built Password Generator myself!
+
+**Link to work:** [Password Generator](https://replit.com/@theyashviradia/password-generator-start?embed=1&output=1#main.py)
+
