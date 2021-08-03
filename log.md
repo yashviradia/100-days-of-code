@@ -100,3 +100,14 @@
 
 **Link to work:** [Password Generator](https://replit.com/@theyashviradia/password-generator-start?embed=1&output=1#main.py)
 
+
+### Day 11: July 25, 2021
+
+**Today's Progress:** Python while loops and practice with Reeborg's World
+
+**Thoughts:** Need to keep up with my pace and also I need to set milestone for my work. 
+
+**Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json)
+
+
+
