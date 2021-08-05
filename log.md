@@ -110,4 +110,13 @@
 **Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json)
 
 
+### Day 12: July 26, 2021
+
+**Today's Progress:** Reeborg's World maze
+
+**Thoughts:** I worked for around 12 Hours including After schooling after the work
+
+**Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json)
+
+
 
