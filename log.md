@@ -119,4 +119,13 @@
 **Link to work:** [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json)
 
 
+### Day 13: July 27, 2021
+
+**Today's Progress:** Starting with Hangman Project
+
+**Thoughts:** Felt really fustrated today, as I worked more than 10 hours during this vacation job, but at last completed it.
+
+**Link to work:** [Challenge 1: Picking random words and checking Answers](https://replit.com/@theyashviradia/Pickingrandomwordandcheckinguserinput)
+
+
 
