@@ -146,4 +146,13 @@
 **Link to work:** [Paint Area Calculaotor](https://replit.com/@theyashviradia/Paint-Area-Calculator?embed=1&output=1#main.py)
 
 
+### Day 16: July 30, 2021
+
+**Today's Progress:** More Practice on Functions with inputs, Positional and Keyword Arguments
+
+**Thoughts:** On the way to Hannover from Munich!
+
+**Link to work:** [Prime Number Checker](https://replit.com/@theyashviradia/Prime-Number-Checker?embed=1&output=1#main.py)
+
+
 
