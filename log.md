@@ -137,4 +137,13 @@
 **Link to work:** [Hangman-Game](https://replit.com/@theyashviradia/Hangman-Game?embed=1&output=1#main.py)
 
 
+### Day 15: July 29, 2021
+
+**Today's Progress:** Functions with inputs, Positional and Keyword Arguments
+
+**Thoughts:** Tomorrow I'll be travelling back to Hannover
+
+**Link to work:** [Paint Area Calculaotor](https://replit.com/@theyashviradia/Paint-Area-Calculator?embed=1&output=1#main.py)
+
+
 
