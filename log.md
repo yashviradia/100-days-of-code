@@ -141,7 +141,7 @@
 
 **Today's Progress:** Functions with inputs, Positional and Keyword Arguments
 
-**Thoughts:** Tomorrow I'll be travelling back to Hannover
+**Thoughts:** After long day of work, felt fustrated, but continuing with this streak.
 
 **Link to work:** [Paint Area Calculaotor](https://replit.com/@theyashviradia/Paint-Area-Calculator?embed=1&output=1#main.py)
 
@@ -150,9 +150,18 @@
 
 **Today's Progress:** More Practice on Functions with inputs, Positional and Keyword Arguments
 
-**Thoughts:** On the way to Hannover from Munich!
+**Thoughts:** Continuing with this streak
 
 **Link to work:** [Prime Number Checker](https://replit.com/@theyashviradia/Prime-Number-Checker?embed=1&output=1#main.py)
+
+
+### Day 17: July 31, 2021
+
+**Today's Progress:** Caesar Cipher Project
+
+**Thoughts:** Need a bit of revision in concepts of while loops
+
+**Link to work:** [Caesar Cipher](https://replit.com/@theyashviradia/Prime-Number-Checker?embed=1&output=1#main.py)
 
 
 
