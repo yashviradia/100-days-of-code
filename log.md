@@ -164,4 +164,13 @@
 **Link to work:** [Caesar Cipher](https://replit.com/@theyashviradia/Prime-Number-Checker?embed=1&output=1#main.py)
 
 
+### Day 18: August 01, 2021
+
+**Today's Progress:** Travel log
+
+**Thoughts:** Still need to be on track, but gradually keeping up
+
+**Link to work:** [Travel log](https://replit.com/@theyashviradia/Travel-log?embed=1&output=1#main.py)
+
+
 
