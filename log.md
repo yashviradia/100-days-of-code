@@ -173,4 +173,13 @@
 **Link to work:** [Travel log](https://replit.com/@theyashviradia/Travel-log?embed=1&output=1#main.py)
 
 
+### Day 19: August 02, 2021
+
+**Today's Progress:** Created Secret Auction project
+
+**Thoughts:** felt fustrated and overwhelmed but made it
+
+**Link to work:** [Secret Auction](https://replit.com/@theyashviradia/blind-auction-start?embed=1&output=1#main.py)
+
+
 
