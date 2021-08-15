@@ -182,4 +182,22 @@
 **Link to work:** [Secret Auction](https://replit.com/@theyashviradia/blind-auction-start?embed=1&output=1#main.py)
 
 
+### Day 19: August 02, 2021
+
+**Today's Progress:** Created Secret Auction project
+
+**Thoughts:** felt fustrated and overwhelmed but made it
+
+**Link to work:** [Secret Auction](https://replit.com/@theyashviradia/blind-auction-start?embed=1&output=1#main.py)
+
+
+### Day 20: August 03, 2021
+
+**Today's Progress:** Started with making calculator
+
+**Thoughts:** Need to make this thing as priority to become a better software developer
+
+**Link to work:** [Calculator](https://replit.com/@yashviradia/Calculator)
+
+
 
