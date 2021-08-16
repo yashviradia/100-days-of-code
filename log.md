@@ -191,4 +191,13 @@
 **Link to work:** [Calculator](https://replit.com/@yashviradia/Calculator)
 
 
+### Day 21: August 04, 2021
+
+**Today's Progress:** Made Calculator
+
+**Thoughts:** Along with coding the concepts should be also revised
+
+**Link to work:** [Calculator](https://replit.com/@yashviradia/Calculator?embed=1&output=1#main.py)
+
+
 
