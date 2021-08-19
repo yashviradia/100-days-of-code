@@ -200,4 +200,13 @@
 **Link to work:** [Calculator](https://replit.com/@yashviradia/Calculator?embed=1&output=1#main.py)
 
 
+### Day 22: August 05, 2021
+
+**Today's Progress:** Started with Blackjack Capstone Project
+
+**Thoughts:** As always felt a bit fustrated in creating flowchart for the game, but in the end made some progress.
+
+**Link to work:** [Blackjack](https://replit.com/@yashviradia/blackjack-start-1#main.py)
+
+
 
