@@ -218,4 +218,13 @@
 **Link to work:** [Blackjack](https://replit.com/@yashviradia/Blackjack?embed=1&output=1#main.py)
 
 
+### Day 24: August 07, 2021
+
+**Today's Progress:** Learnt about difference between local and global scope in Python 
+
+**Thoughts:** Gradually making good progress
+
+**Link to work:** [Scopes and namespaces](https://www.geeksforgeeks.org/namespaces-and-scope-in-python/)
+
+
 
