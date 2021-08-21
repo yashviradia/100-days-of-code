@@ -227,4 +227,13 @@
 **Link to work:** [Scopes and namespaces](https://www.geeksforgeeks.org/namespaces-and-scope-in-python/)
 
 
+### Day 25: August 08, 2021
+
+**Today's Progress:** Made Number guessing game from scratch 
+
+**Thoughts:** Took time to make flow chart. But then everything went very swiftly
+
+**Link to work:** [Guess the Number](https://replit.com/@yashviradia/Guess-the-Number?embed=1&output=1#main.py)
+
+
 
