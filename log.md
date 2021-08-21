@@ -209,4 +209,13 @@
 **Link to work:** [Blackjack](https://replit.com/@yashviradia/blackjack-start-1#main.py)
 
 
+### Day 23: August 06, 2021
+
+**Today's Progress:** Completed Blackjack Project 
+
+**Thoughts:** Revised all the concepts once again and using hints got the Project completed. Next weekend will be making Project again with 1 hint
+
+**Link to work:** [Blackjack](https://replit.com/@yashviradia/Blackjack?embed=1&output=1#main.py)
+
+
 
