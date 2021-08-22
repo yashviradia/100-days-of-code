@@ -236,4 +236,13 @@
 **Link to work:** [Guess the Number](https://replit.com/@yashviradia/Guess-the-Number?embed=1&output=1#main.py)
 
 
+### Day 26: August 09, 2021
+
+**Today's Progress:** Learnt how to debug the problems properly 
+
+**Thoughts:** Lots of theory which will be useful in coding
+
+**Link to work:** [Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit)
+
+
 
