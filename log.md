@@ -245,4 +245,13 @@
 **Link to work:** [Python Tutor](http://www.pythontutor.com/visualize.html#mode=edit)
 
 
+### Day 27: August 10, 2021
+
+**Today's Progress:** Debugged previous code of guess the number 
+
+**Thoughts:** Need to get things done. Even if I feel fustrated
+
+**Link to work:** [Guess the Number](https://replit.com/@yashviradia/Guess-the-Number?embed=1&output=1#main.py)
+
+
 
