@@ -263,4 +263,13 @@
 **Link to work:** [Higher and Lower](https://replit.com/@yashviradia/higher-lower-start#main.py)
 
 
+### Day 29: August 12, 2021
+
+**Today's Progress:** Coded Higher Lower Game 
+
+**Thoughts:** Need to figure out, how to sit correctly in front of computer ;)
+
+**Link to work:** [Higher and Lower](https://replit.com/@yashviradia/higher-lower-start?embed=1&output=1#main.py)
+
+
 
