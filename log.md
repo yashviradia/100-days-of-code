@@ -254,4 +254,13 @@
 **Link to work:** [Guess the Number](https://replit.com/@yashviradia/Guess-the-Number?embed=1&output=1#main.py)
 
 
+### Day 28: August 11, 2021
+
+**Today's Progress:** Flowchart for Higher and lower game 
+
+**Thoughts:** Played game few times and tomorrow will be execution of flowchart
+
+**Link to work:** [Higher and Lower](https://replit.com/@yashviradia/higher-lower-start#main.py)
+
+
 
