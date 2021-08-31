@@ -287,7 +287,16 @@
 
 **Thoughts:** Revision is important to make the foundations strong
 
-**Link to work:** [Leap year](https://replit.com/@yashviradia/Leapyearpractice#main.py)
+**Link to work:** [Leap year](https://replit.com/@yashviradia/Leapyearpractice?embed=1&output=1#main.py)
+
+
+### Day 32: August 15, 2021
+
+**Today's Progress:** Revised if-else statements 
+
+**Thoughts:** Making treasure island again was a lot of fun and revising basic concepts was worth it!
+
+**Link to work:** [Treasure island 2.0](https://replit.com/@yashviradia/Treasureisland-20)
 
 
 
