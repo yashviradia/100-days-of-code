@@ -281,4 +281,13 @@
 **Link to work:** [Higher and Lower](https://replit.com/@yashviradia/Higher-Lower-Game?embed=1&output=1#main.py)
 
 
+### Day 31: August 14, 2021
+
+**Today's Progress:** Revised if-else statements 
+
+**Thoughts:** Revision is important to make the foundations strong
+
+**Link to work:** [Leap year](https://replit.com/@yashviradia/Leapyearpractice#main.py)
+
+
 
