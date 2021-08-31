@@ -272,4 +272,13 @@
 **Link to work:** [Higher and Lower](https://replit.com/@yashviradia/higher-lower-start?embed=1&output=1#main.py)
 
 
+### Day 30: August 13, 2021
+
+**Today's Progress:** Refactored Higher Lower Game 
+
+**Thoughts:** Got to learn how to deconstruct the bigger problem into smaller chunks
+
+**Link to work:** [Higher and Lower](https://replit.com/@yashviradia/Higher-Lower-Game?embed=1&output=1#main.py)
+
+
 
