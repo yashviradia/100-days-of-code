@@ -299,4 +299,13 @@
 **Link to work:** [Treasure island 2.0](https://replit.com/@yashviradia/Treasureisland-20)
 
 
+### Day 33: August 16, 2021
+
+**Today's Progress:** Revision of lists 
+
+**Thoughts:** Made treasure map with some refactoring
+
+**Link to work:** [Treasure Map 2.0](https://replit.com/@yashviradia/treasuremap20?embed=1&output=1#main.py)
+
+
 
