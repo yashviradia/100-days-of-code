@@ -308,4 +308,13 @@
 **Link to work:** [Treasure Map 2.0](https://replit.com/@yashviradia/treasuremap20?embed=1&output=1#main.py)
 
 
+### Day 34: August 17, 2021
+
+**Today's Progress:** Revised Python lists 
+
+**Thoughts:** Refactored and modified Rock Paper Scissor game
+
+**Link to work:** [Rock Paper Scissor](https://replit.com/@yashviradia/Rock-Paper-Scissor?embed=1&output=1#main.py)
+
+
 
