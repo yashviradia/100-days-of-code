@@ -317,4 +317,13 @@
 **Link to work:** [Rock Paper Scissor](https://replit.com/@yashviradia/Rock-Paper-Scissor?embed=1&output=1#main.py)
 
 
+### Day 35: August 18, 2021
+
+**Today's Progress:** Revised Python for Loops 
+
+**Thoughts:** refactored the code of password Generator
+
+**Link to work:** [Password Generator](https://replit.com/@yashviradia/PasswordGenerator20?embed=1&output=1#main.py)
+
+
 
