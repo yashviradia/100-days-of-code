@@ -326,4 +326,13 @@
 **Link to work:** [Password Generator](https://replit.com/@yashviradia/PasswordGenerator20?embed=1&output=1#main.py)
 
 
+### Day 36: August 19, 2021
+
+**Today's Progress:** Revised Python while loops 
+
+**Thoughts:** refactored the code of Hangman
+
+**Link to work:** [Hangman](https://replit.com/@yashviradia/Hangman-20?embed=1&output=1#main.py)
+
+
 
