@@ -344,4 +344,13 @@
 **Link to work:** [Coffee Machine](https://replit.com/@appbrewery/coffee-machine-final?embed=1&output=1#main.py)
 
 
+### Day 38: August 21, 2021
+
+**Today's Progress:** Coded Coffee Machine 
+
+**Thoughts:** Felt fustrated and need to look at solution
+
+**Link to work:** [Coffee Machine](https://replit.com/@appbrewery/coffee-machine-final?embed=1&output=1#main.py)
+
+
 
