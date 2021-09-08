@@ -335,4 +335,13 @@
 **Link to work:** [Hangman](https://replit.com/@yashviradia/Hangman-20?embed=1&output=1#main.py)
 
 
+### Day 37: August 20, 2021
+
+**Today's Progress:** Started with making Coffee making machine 
+
+**Thoughts:** Need to break big problem into small pieces precisely
+
+**Link to work:** [Coffee Machine](https://replit.com/@appbrewery/coffee-machine-final?embed=1&output=1#main.py)
+
+
 
