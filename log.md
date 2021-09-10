@@ -353,4 +353,13 @@
 **Link to work:** [Coffee Machine](https://replit.com/@appbrewery/coffee-machine-final?embed=1&output=1#main.py)
 
 
+### Day 39: August 22, 2021
+
+**Today's Progress:** Learning OOP 
+
+**Thoughts:** Starting to get hold of attributes and methods associated with an object
+
+**Link to work:** [Turtle](https://docs.python.org/3/library/turtle.html#turtle.forward)
+
+
 
