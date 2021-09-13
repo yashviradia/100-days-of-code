@@ -362,4 +362,13 @@
 **Link to work:** [Turtle](https://docs.python.org/3/library/turtle.html#turtle.forward)
 
 
+### Day 40: August 23, 2021
+
+**Today's Progress:** Implementing OOP 
+
+**Thoughts:** refactored Coffee Machine using OOP
+
+**Link to work:** [Coffee Machine Docs](https://docs.google.com/document/d/e/2PACX-1vTragRHILyj76AvVgpWeOlEaLBXoxPM_43SdEyffIKtOgarj42SoSAsK6LwLAdHQs2qFLGthRZds6ok/pub)
+
+
 
