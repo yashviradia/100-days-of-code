@@ -371,4 +371,13 @@
 **Link to work:** [Coffee Machine Docs](https://docs.google.com/document/d/e/2PACX-1vTragRHILyj76AvVgpWeOlEaLBXoxPM_43SdEyffIKtOgarj42SoSAsK6LwLAdHQs2qFLGthRZds6ok/pub)
 
 
+### Day 41: August 24, 2021
+
+**Today's Progress:** Learning to create classes using OOP 
+
+**Thoughts:** Making Quiz game. Feeling very excited!
+
+**Link to work:** [Quiz Game sample](https://replit.com/@appbrewery/quiz-game-final?embed=1&output=1#main.py)
+
+
 
