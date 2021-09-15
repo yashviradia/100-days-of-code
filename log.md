@@ -386,6 +386,6 @@
 
 **Thoughts:** Need to revise some aspects in Python
 
-**Link to work:** [Quiz Game](https://replit.com/@appbrewery/quiz-game-final?embed=1&output=1#main.py)
+**Link to work:** [Quiz Game](https://replit.com/@yashviradia/QuizGame?embed=1&output=1#main.py)
 
 
