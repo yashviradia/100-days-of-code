@@ -380,7 +380,7 @@
 **Link to work:** [Quiz Game sample](https://replit.com/@appbrewery/quiz-game-final?embed=1&output=1#main.py)
 
 
-### Day 41: August 25, 2021
+### Day 42: August 25, 2021
 
 **Today's Progress:** Made Quiz Game using OOP 
 
