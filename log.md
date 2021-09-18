@@ -389,3 +389,12 @@
 **Link to work:** [Quiz Game](https://replit.com/@yashviradia/QuizGame?embed=1&output=1#main.py)
 
 
+### Day 43: August 26, 2021
+
+**Today's Progress:** Updated Question bank for Quiz Game 
+
+**Thoughts:** Got to work like hell and also schedule the time for revision
+
+**Link to work:** [Quiz Game](https://replit.com/@yashviradia/QuizGame?output=1&embed=1#main.py)
+
+
