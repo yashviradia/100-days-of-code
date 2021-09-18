@@ -398,3 +398,12 @@
 **Link to work:** [Quiz Game](https://replit.com/@yashviradia/QuizGame?output=1&embed=1#main.py)
 
 
+### Day 44: August 27, 2021
+
+**Today's Progress:** Learning about GUI using Turtle 
+
+**Thoughts:** Need to schedule the revision sessions
+
+**Link to work:** [Turtle Shapes](https://replit.com/@yashviradia/Turtleshapes?embed=1&output=1#main.py)
+
+
