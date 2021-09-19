@@ -404,8 +404,11 @@
 
 **Thoughts:** Need to schedule the revision sessions
 
-**Link to work:** [Turtle Shapes](https://replit.com/@yashviradia/Turtleshapes?embed=1&output=1#main.py)
-**Link to work:** [Turtle Random Walk](https://replit.com/@theyashviradia/Turtlerandomwalk?embed=1&output=1#main.py)
+**Link to work:** 
+
+[Turtle Shapes](https://replit.com/@yashviradia/Turtleshapes?embed=1&output=1#main.py)
+
+[Turtle Random Walk](https://replit.com/@theyashviradia/Turtlerandomwalk?embed=1&output=1#main.py)
 
 
 ### Day 45: August 28, 2021
