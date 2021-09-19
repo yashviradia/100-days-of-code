@@ -405,5 +405,15 @@
 **Thoughts:** Need to schedule the revision sessions
 
 **Link to work:** [Turtle Shapes](https://replit.com/@yashviradia/Turtleshapes?embed=1&output=1#main.py)
+**Link to work:** [Turtle Random Walk](https://replit.com/@theyashviradia/Turtlerandomwalk?embed=1&output=1#main.py)
+
+
+### Day 45: August 28, 2021
+
+**Today's Progress:** Created Hirst Painting using turtle Module 
+
+**Thoughts:** Need to schedule the revision sessions
+
+**Link to work:** [Hirst Painting](https://replit.com/@theyashviradia/HirstPainting?output=1&embed=1#main.py)
 
 
