@@ -429,3 +429,12 @@
 **Link to work:** [Etch a Sketch](https://replit.com/@theyashviradia/EtchASketchApp?embed=1&output=1#main.py)
 
 
+### Day 47: August 30, 2021
+
+**Today's Progress:** Made turtle race game using turtle module 
+
+**Thoughts:** Great work, just keep pushing forward! By the way also need to make schedule to revise OOP
+
+**Link to work:** [Turtle racing game](https://replit.com/@theyashviradia/Turtleracegame?embed=1&output=1#main.py)
+
+
