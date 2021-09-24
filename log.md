@@ -420,3 +420,12 @@
 **Link to work:** [Hirst Painting](https://replit.com/@theyashviradia/HirstPainting?output=1&embed=1#main.py)
 
 
+### Day 46: August 29, 2021
+
+**Today's Progress:** Starting making games using turtle module 
+
+**Thoughts:** Staying consistent is very crucial, keep going
+
+**Link to work:** [Etch a Sketch](https://replit.com/@theyashviradia/EtchASketchApp?embed=1&output=1#main.py)
+
+
