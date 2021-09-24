@@ -438,3 +438,12 @@
 **Link to work:** [Turtle racing game](https://replit.com/@theyashviradia/Turtleracegame?embed=1&output=1#main.py)
 
 
+### Day 48: August 31, 2021
+
+**Today's Progress:** Creating snake game using turtle module and OOP 
+
+**Thoughts:** Alright, creating a game that I used to play on nokia phone when I was kid
+
+**Link to work:** [Snake Game](https://replit.com/@theyashviradia/SnakeGame?embed=1&output=1#snake.py)
+
+
