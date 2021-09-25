@@ -447,3 +447,12 @@
 **Link to work:** [Snake Game](https://replit.com/@theyashviradia/SnakeGame?embed=1&output=1#snake.py)
 
 
+### Day 49: September 01, 2021
+
+**Today's Progress:** Created snake game and learnt about slicing 
+
+**Thoughts:** Atlast, created the Snake game
+
+**Link to work:** [Snake Game](https://replit.com/@theyashviradia/SnakeGame?embed=1&output=1#snake.py)
+
+
