@@ -456,3 +456,12 @@
 **Link to work:** [Snake Game](https://replit.com/@theyashviradia/SnakeGame?embed=1&output=1#snake.py)
 
 
+### Day 50: September 02, 2021
+
+**Today's Progress:** Updated Snake game  
+
+**Thoughts:** In the process need to give a look on past projects
+
+**Link to work:** [Snake Game](https://replit.com/@theyashviradia/mysnakegame?embed=1&output=1#main.py)
+
+
