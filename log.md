@@ -465,3 +465,12 @@
 **Link to work:** [Snake Game](https://replit.com/@theyashviradia/mysnakegame?embed=1&output=1#main.py)
 
 
+### Day 51: September 03, 2021
+
+**Today's Progress:** Still making Pong game, trying to make second paddle   
+
+**Thoughts:** Felt overwhelmed, it's all about independent thinking..
+
+**Link to work:** [Snake Game](https://replit.com/@theyashviradia/mysnakegame?embed=1&output=1#main.py)
+
+
