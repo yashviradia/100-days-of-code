@@ -480,6 +480,6 @@
 
 **Thoughts:** Need to also revise, while I'm on the way to work or to Uni
 
-**Link to work:** [Pong Game](https://replit.com/github/yashviradia/My_Pong_Game)
+**Link to work:** [Pong Game](https://replit.com/@theyashviradia/MyPongGame-2?output=1&embed=1#main.py)
 
 
