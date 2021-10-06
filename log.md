@@ -474,3 +474,12 @@
 **Link to work:** [Snake Game](https://replit.com/@theyashviradia/mysnakegame?embed=1&output=1#main.py)
 
 
+### Day 52: September 04, 2021
+
+**Today's Progress:** Still making Pong game, creating the scoreboard to keep track of score   
+
+**Thoughts:** Need to also revise, while I'm on the way to work or to Uni
+
+**Link to work:** [Pong Game](https://replit.com/github/yashviradia/My_Pong_Game)
+
+
