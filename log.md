@@ -483,3 +483,12 @@
 **Link to work:** [Pong Game](https://replit.com/@theyashviradia/MyPongGame-2?output=1&embed=1#main.py)
 
 
+### Day 53: September 05, 2021
+
+**Today's Progress:** Created Turtle Crossing Game   
+
+**Thoughts:** Got problems in making random cars, but atlast made it.
+
+**Link to work:** [Turtle Crossing Game](https://replit.com/@theyashviradia/TurtleCrossingGame?embed=1&output=1#main.py)
+
+
