@@ -492,3 +492,15 @@
 **Link to work:** [Turtle Crossing Game](https://replit.com/@theyashviradia/TurtleCrossingGame?embed=1&output=1#main.py)
 
 
+### Day 54: September 06, 2021
+
+**Today's Progress:** Created invitation letters for all invitees using Mail Merge Project   
+
+**Thoughts:** Took time to complete it, but did it all by myself :)
+
+**Link to work:** [Mail Merge Project](https://replit.com/@theyashviradia/MailMergeProject#main.py)
+
+
+
+
+
