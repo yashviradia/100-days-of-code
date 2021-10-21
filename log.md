@@ -501,6 +501,15 @@
 **Link to work:** [Mail Merge Project](https://replit.com/@theyashviradia/MailMergeProject#main.py)
 
 
+### Day 55: September 07, 2021
+
+**Today's Progress:** Created Birthday letters, yeah to wish birthday and learnt about Pandas
+
+**Thoughts:** Kind of same thing, just need to figure out - if the file is already there, how not to edit it
+
+**Link to work:** [Pandas](https://pandas.pydata.org/docs/)
+
+
 
 
 
