@@ -510,6 +510,15 @@
 **Link to work:** [Pandas](https://pandas.pydata.org/docs/)
 
 
+### Day 56: September 08, 2021
+
+**Today's Progress:** Creating US States game
+
+**Thoughts:** Got stuck in using Pandas - getting the coordinates of correct corresponding state
+
+**Link to work:** [My Inspiration](https://www.sporcle.com/games/g/states)
+
+
 
 
 
