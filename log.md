@@ -519,6 +519,15 @@
 **Link to work:** [My Inspiration](https://www.sporcle.com/games/g/states)
 
 
+### Day 57: September 09, 2021
+
+**Today's Progress:** Created US States game
+
+**Thoughts:** Not that easy to stay consistent
+
+**Link to work:** [US States Game](https://replit.com/@theyashviradia/GuesstheUSStates?output=1&embed=1#main.py)
+
+
 
 
 
