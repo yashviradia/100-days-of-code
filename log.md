@@ -528,6 +528,15 @@
 **Link to work:** [US States Game](https://replit.com/@theyashviradia/GuesstheUSStates?output=1&embed=1#main.py)
 
 
+### Day 58: September 10, 2021
+
+**Today's Progress:** Created NATO Alphabet Game
+
+**Thoughts:** When on the phone it's difficult to spell out the whole phonetic word, here is where NATO Alphabet helps!
+
+**Link to work:** [NATO Alphabet](https://replit.com/@theyashviradia/NATOAlphabet?embed=1&output=11#main.py)
+
+
 
 
 
