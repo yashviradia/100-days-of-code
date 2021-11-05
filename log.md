@@ -563,3 +563,11 @@
 
 **Link to work:** [Password Manager GUI App](https://replit.com/@yashviradia/PasswordManager?embed=1&output=1#main.py)
 
+
+### Day 62: September 14, 2021
+
+**Today's Progress:** Updated Features of Password GUI App
+
+**Thoughts:** You got to compel yourself to get things done
+
+**Link to work:** [Password Manager GUI App](https://replit.com/@yashviradia/PasswordManager?embed=1&output=1#main.py)
